@@ -1,0 +1,71 @@
+# Required Output Structure
+
+The AI that receives this package should create a new ZIP using this structure:
+
+```text
+website-analysis-output/
+  README.md
+  00-executive-summary/
+    summary.md
+    key-findings.md
+    rebuild-roadmap.md
+  01-research/
+    sitemap.md
+    analyzed-pages.md
+    research-notes.md
+    assumptions-and-limitations.md
+  02-screenshots/
+    desktop/
+    tablet/
+    mobile/
+    interactions/
+    annotated/
+  03-design-language/
+    brand-and-visual-language.md
+    moodboard-notes.md
+    layout-principles.md
+    content-and-tone.md
+  04-design-system/
+    typography.md
+    color-system.md
+    spacing-and-grid.md
+    elevation-borders-radius.md
+    iconography-and-media.md
+    design-tokens.json
+  05-components/
+    component-inventory.md
+    buttons.md
+    navigation.md
+    cards.md
+    forms.md
+    modals-drawers-popovers.md
+    tables-lists.md
+    page-sections.md
+    states.md
+  06-pages/
+    homepage.md
+    page-template.md
+    page-by-page-breakdowns/
+  07-ux-interactions-motion/
+    user-flows.md
+    interaction-patterns.md
+    motion-system.md
+    responsive-behavior.md
+  08-technical-architecture/
+    frontend-stack.md
+    html-css-js-findings.md
+    asset-loading.md
+    api-and-network-findings.md
+    recommended-implementation.md
+  09-accessibility-performance-seo/
+    accessibility-audit.md
+    performance-audit.md
+    seo-metadata-audit.md
+    improvement-backlog.md
+  10-rebuild-specification/
+    implementation-blueprint.md
+    component-props-and-variants.md
+    design-token-reference.md
+    acceptance-criteria.md
+    qa-checklist.md
+```

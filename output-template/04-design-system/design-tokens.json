@@ -1,0 +1,32 @@
+{
+  "color": {
+    "background": {},
+    "surface": {},
+    "text": {},
+    "border": {},
+    "brand": {},
+    "semantic": {},
+    "state": {}
+  },
+  "typography": {
+    "fontFamily": {},
+    "fontSize": {},
+    "lineHeight": {},
+    "fontWeight": {},
+    "letterSpacing": {}
+  },
+  "spacing": {},
+  "radius": {},
+  "shadow": {},
+  "breakpoint": {},
+  "motion": {
+    "duration": {},
+    "easing": {},
+    "transition": {}
+  },
+  "layout": {
+    "container": {},
+    "grid": {},
+    "zIndex": {}
+  }
+}
